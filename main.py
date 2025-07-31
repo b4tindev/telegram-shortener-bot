@@ -4,9 +4,9 @@ import time
 import json
 import os
 
-API_ID = 12297724
-API_HASH = "87098aebcdca36228ba785d27ca7f41f"
-BOT_TOKEN = "8175542740:AAGaTMGCwKfp1Mr92cUA2KPUgEfclZ4I474"
+API_ID = id gir
+API_HASH = "hash gir"
+BOT_TOKEN = "token gir"
 DATA_FILE = "shortened_links.json"
 COOLDOWN = 5
 
